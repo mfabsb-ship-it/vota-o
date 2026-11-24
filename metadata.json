@@ -1,0 +1,6 @@
+{
+  "name": "Votação Escolar — Desenhos e Poemas",
+  "description": "Plataforma interativa de votação escolar para as categorias de Desenhos e Poemas, com QR Code e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
